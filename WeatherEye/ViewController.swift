@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     let coordinate: (lat: Double, lon: Double) = (37.8267,-122.423)
     
     // TODO: Enter your API key here
-    private let forecastAPIKey = ""
+    private let forecastAPIKey = "18c35ade3544374fb5478b45bad9dc8e"
     
     override func viewDidLoad() {
         super.viewDidLoad()
